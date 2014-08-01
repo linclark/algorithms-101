@@ -1,1 +1,7 @@
-# Write stuff about GETTING STARTED: QUICK UNION here
+## Task
+
+Implement QuickUnion.
+
+## Watch
+
+- https://class.coursera.org/algs4partI-005/lecture/7
