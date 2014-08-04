@@ -10,3 +10,11 @@ Types of algorithms covered are:
 - sorting algorithms
 - priority queues
 - binary search trees, etc
+
+# Get Started
+
+clone the repo
+
+`npm install`
+
+`node algorithms-101.js`
