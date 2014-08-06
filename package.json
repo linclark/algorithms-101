@@ -10,6 +10,7 @@
     "dependencies": {
         "colors-tmpl": "0.1.0",
         "lodash": "x.x.x",
+        "sinon": "1.x.x",
         "workshopper": "1.x.x",
         "workshopper-exercise": "^0.2.2",
         "workshopper-wrappedexec": "^0.1.1",
